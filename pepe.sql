@@ -1,2 +1,4 @@
-SELECT * FROM myTable2
+--SELECT * FROM myTable2
+execute saraza
+
 
